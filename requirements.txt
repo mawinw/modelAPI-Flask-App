@@ -1,0 +1,6 @@
+Flask
+Werkzeug
+tensorflow
+line-bot-sdk>=1.6
+keras
+Pillow
